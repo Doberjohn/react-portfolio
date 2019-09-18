@@ -12,19 +12,24 @@ let resumeData = {
       "className": "fa fa-linkedin"
     },
     {
-      "name": "github",
-      "url": "http://github.com/rbhatia46",
-      "className": "fa fa-github"
+      "name": "skype",
+      "url": "https://twitter.com/Doberjohn1",
+      "className": "fa fa-twitter"
     },
     {
-      "name": "skype",
-      "url": "http://twitter.com/rbhatia46",
-      "className": "fa fa-twitter"
+      "name": "facebook",
+      "url": "https://www.facebook.com/Doberjohn",
+      "className": "fa fa-facebook"
+    },
+    {
+      "name": "gmail",
+      "url": "mailto:johnfanidis@gmail.com",
+      "className": "fa fa-envelope"
     }
   ],
-  "aboutme": "I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-  "address": "India",
-  "website": "https://rbhatia46.github.io",
+  "aboutme": "With more than 5 years of experience in more than 20 projects, I am always passionate about software development. I am interested in learning innovative development patterns as well as new programming languages and mobile/web frameworks. I specialize in implementing real time features in web and mobile applications using event driven techniques to create more independent and modular application components. I am currently working as a Frontend Engineer at Exandia, a software development company based in Greece, being a member of a talented team where we deliver large scale, highly scalable and complex Transportation Management Systems for various carriers throughout the world. Besides my main job position, I also work on individual projects as a freelance Mobile Developer using both native languages (Android/Java + Swift/iOS) and cross platform frameworks (Ionic + React Native).",
+  "address": "Vafopoulou Georgiou 22, Thessaloniki 546 46, Greece",
+  "website": "https://johnfanidis.myportfolio.com/",
   "education": [
     {
       "UniversityName": "University of Macedonia",
@@ -36,14 +41,14 @@ let resumeData = {
   ],
   "work": [
     {
-      "CompanyName": "Some Company",
+      "CompanyName": "Exandia",
       "specialization": "Some specialization",
       "MonthOfLeaving": "Jan",
       "YearOfLeaving": "2018",
       "Achievements": "Some Achievements"
     },
     {
-      "CompanyName": "Some Company",
+      "CompanyName": "Yummy Software & Services",
       "specialization": "Some specialization",
       "MonthOfLeaving": "Jan",
       "YearOfLeaving": "2018",
