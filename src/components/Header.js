@@ -22,8 +22,9 @@ export default class Header extends Component {
 
           <div className="row banner">
             <div className="banner-text">
-              <h1 className="responsive-headline">I am {resumeData.name}</h1>
-              <h3 style={{ color: '#fff', fontFamily: 'sans-serif ' }}>I am a {resumeData.role}.{resumeData.roleDescription}
+              <h1 className="responsive-headline">I am John Fanidis</h1>
+              <h3 style={{ color: '#fff', fontFamily: 'sans-serif ' }}>I am a Frontend Engineer and Mobile Developer. I like dabbling in various 
+              parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.
               </h3>
               <hr />
               <ul className="social">

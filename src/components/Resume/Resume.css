@@ -46,3 +46,14 @@
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
+
+p {
+   text-align: justify;
+}
+
+.read-more-button {
+    display: inline-block;
+    margin-left: 3px;
+    color: #286DA8;
+    cursor: pointer;
+}
